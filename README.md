@@ -39,7 +39,7 @@ Clone this repository to your local machine using the following command:
 
  The Remix IDE is available in both web and desktop versions. We'll use the Web version of the [Remix IDE](https://remix.ethereum.org/). 
  
- Upload to Solidity the files ```KaseiCoinCrowdsale.sol``` and ```KaseiCoin.sol`. 
+ Upload to Solidity the files ```KaseiCoinCrowdsale.sol``` and ```KaseiCoin.sol```. 
 
 **Deploy the Crowdsale to a Local Blockchain :** 
 
