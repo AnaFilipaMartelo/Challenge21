@@ -17,6 +17,7 @@ The technologies used in this project include:
 ## Installation Guide
 
 Install [MetaMask](https://metamask.io/download/):  A crypto wallet and gateway to blockchain apps.
+
 Install [Ganache](https://trufflesuite.com/ganache/): A personal blockchain for Ethereum development.
 
 ---
